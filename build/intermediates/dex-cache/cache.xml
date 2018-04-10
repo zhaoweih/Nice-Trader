@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/org/jetbrains/annotations/13.0/annotations-13.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/library-1.2.4.aar/a11dbe6ef8fef8be709c9da951741ade/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/bmob-sdk-3.5.5.aar/14aa36c5696fadf7233cdb17977c40c3/jars/libs/rxandroid-1.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="84127ad71f76445b8215afceb38e8b05f58eafa6">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/714ef520c4869d809ea34e0d8d0b618e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/bmob-sdk-3.5.5.aar/14aa36c5696fadf7233cdb17977c40c3/jars/libs/okio-1.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f64e0f80ef26fbc722b4bc9f024370d5b1e8f6d6">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6019c1d2f62187f3f35078a5f6e68e7a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fbf2504416ff959c95fe2994d84e5c2e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/bmob-sdk-3.5.5.aar/14aa36c5696fadf7233cdb17977c40c3/jars/libs/okhttp-3.3.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e009af854d43130a9a13bcba900ddd1124e835d5">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib-jre7/1.1.51/kotlin-stdlib-jre7-1.1.51.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b5933578dc55f32cfc1a25f1db6371e4161fb8f">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/weathericonview-1.1.0.aar/defbd78165b6ad59d1229897173f442a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8030b5d30757f9bf35bb982737697386b86c157e">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/485d35e2364b99baa65500d551b4b9ad/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/PhotoView-2.1.3.aar/a53ae50405dd88bb85cd6affa0f9d02a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2115d9dd8708cb48e7481b1259ae9f00dc16a032">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/bmob-sdk-3.5.5.aar/14aa36c5696fadf7233cdb17977c40c3/jars/libs/rxjava-1.1.6.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="79f0c1e382e8b62e91064ef6b71130dda83f338e">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b58ae104560822d7c207153d573bdba3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/konfetti-1.1.0.aar/3b8961453d8be2448f05f94cfddee01d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae331ab43aaadb3c9f9fb667c7117c002a11febf">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/35b0cd71a80a11e8b59c2d5c445626c7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/Android/secondhand/app/libs/TencentLocationSdk_v6.2.5.3_r15b3b3cc_20171103_115903.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f677fdf9cba94d3f7ae3cc597b41c21b0770579e">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/bmob-sdk-3.5.5.aar/14aa36c5696fadf7233cdb17977c40c3/jars/libs/BmobSDK_3.5.5_20170420.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f67cfc97fcbde8b4764f01135b10afa716ae1a40">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/bmob-im-2.0.9.aar/f21ef827bc685f87b84238ad7c4eb39f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ff50f38f68d287129ad0afa8acfb07735b02c685">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c2e36ac4a112342c2112a7f36fe79be7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/ninegridview-0.2.0.aar/16cecc6777a63780957a8a3d9001f9fc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41dc54248fbfeef9ecc8e810ce512aca8f500248">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/bmob-im-2.0.9.aar/f21ef827bc685f87b84238ad7c4eb39f/jars/libs/androidasync-2.1.6.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e467ee6149cd47eff052f22b1db011048726adc9">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0b95def831ae67faa0e828d40edbece7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/bmob-im-2.0.9.aar/f21ef827bc685f87b84238ad7c4eb39f/jars/libs/BmobNewIM_2.0.9_20170731.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b5a1d5467bc2aef6db247d5d068608a7370b49a">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5dd50227a67d17718a45790409f2f3ad/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b8415392b85401b8c9094f5514cec771/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/flipprogressdialog-0.1.0.aar/feab8f84020972d20b3499c02169afac/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="edab2ef3f86928c526af758b8492d89a072a37fa">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/4c9dd16066f201ca593f9219af6885fc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fd6a42585a1c2f219b90e71476ec50cc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6fa7cc18d517ecd8d8157bae13e265ac/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/85d6eb669ef2cd22bb9750e0c00560e8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/624b479919805e7c444ac4f237b4a1b7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/matisse-0.4.3.aar/c3fb9477d259ceed96a7b19e28e95367/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="57e0ef2a88702e623130d33d2590fb7b78521c83">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/library-1.0.4.aar/7695ce878d61adebdff83f1c13d52d4d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="808deed0b600a65b805b642c2234feb6992dec88">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/modules-2/files-2.1/cn.bmob.android/http-legacy/1.0/5320fd78dd7f154e586970d4f02befc9b58432aa/http-legacy-1.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9a78fd40f6f45c455a418787a9e9f528/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-commons/0.10.2/ac908e7d142061753e73419673bb543bc63ebfbd/anko-commons-0.10.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac908e7d142061753e73419673bb543bc63ebfbd">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/bmob-sdk-3.5.5.aar/14aa36c5696fadf7233cdb17977c40c3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac71d1248d0f3577b39093396e6ff35582a5d7a4">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/phoenix-1.2.3.aar/1bd0f7ccb23f789a602309994639e07a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4dfe2dd3f402072c5268f341830cdc5263187074">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/bmob-sdk-3.5.5.aar/14aa36c5696fadf7233cdb17977c40c3/jars/libs/gson-2.6.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cea3a9be08d0dcf89783b2cc87c8787fdb2a0d12">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c114b59098265189e1aba2acbee4367e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/bf03e0aedaf48fc83324a7907cffadd4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/androidKotlin-1.5.1.aar/ab881d8e5e271cfa73660b8743523cd7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e67a8cc63c6e2867f99b6eab13c5813418feabc5">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e34fe80c9714240525f665113dd3749415515655">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/por/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/9cde86015b467e051796c0aaaa2fb750/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="524dbb5c53295c006c7aa1a209aae0407d6ebc53">
+        <dex dex="/Users/por/Android/secondhand/app/build/intermediates/transforms/preDex/release/51.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#db4437</color>
+    <color name="colorPrimaryDark">#C53929</color>
+    <color name="colorAccent">#DB4437</color>
+    <color name="grey">#212121</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="whiteGrey">#6D6D6D</color>
+    <color name="moreWhiteGrey">#EEEEEE</color>
+    <color name="hotbgcolor">#F5F5F5</color>
+    <color name="sendButtonColor">#757575</color>
+    <color name="backgroundColor">#F3F5F9</color>
+
+    <!-- Light UI colors -->
+    <color name="lt_yellow">#fce18a</color>
+    <color name="lt_orange">#ff726d</color>
+    <color name="lt_purple">#b48def</color>
+    <color name="lt_pink">#f4306d</color>
+    <!-- Dark UI colors -->
+    <color name="dk_cyan">#3aaab8</color>
+    <color name="dk_green">#38ba9e</color>
+    <color name="dk_red">#bb3d72</color>
+    <color name="dk_blue">#006ded</color>
+    <!-- Weather UI colors -->
+    <color name="my_green">#00B0C0</color>
+    <color name="mgery">#EEEEEE</color>
+</resources>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:id="@+id/et_post_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:gravity="top"
+        android:hint="@string/title_of_your_thing" />
+
+    <EditText
+        android:id="@+id/et_post_detail"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_marginTop="2dp"
+        android:background="@color/white"
+        android:gravity="top"
+        android:hint="@string/detail_of_your_thing" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.lzy.ninegrid.NineGridView
+                android:id="@+id/iv_show_pic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:ngv_mode="grid" />
+
+            <ImageButton
+                android:id="@+id/btn_pic"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_centerInParent="true"
+                android:background="@null"
+                android:src="@drawable/ic_image_black_24dp" />
+
+        </RelativeLayout>
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:background="@color/white"
+            android:text="价格"
+            android:textSize="25sp" />
+
+        <EditText
+            android:id="@+id/et_post_price"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:gravity="right"
+            android:text="200"
+            android:textColor="@color/dk_red"
+            android:textSize="25sp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:paddingTop="30dp"
+        >
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/ic_location_on_3x" />
+
+        <TextView
+            android:id="@+id/tv_location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textSize="16sp"
+            android:text="广东 江门 新会区" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_weight="3"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        >
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/date"
+            android:textSize="@dimen/weather_normal_text_size"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="5"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        >
+        <TextView
+            android:id="@+id/status_forecast"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/status"
+            android:textSize="@dimen/weather_normal_text_size"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="3"
+        android:orientation="horizontal"
+        android:layout_width="0dp"
+        android:gravity="center"
+        android:layout_height="40dp">
+        <TextView
+            android:id="@+id/high"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/high"
+            android:textSize="@dimen/weather_normal_text_size"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="/"
+            android:textSize="@dimen/weather_normal_text_size"
+            />
+        <TextView
+            android:id="@+id/low"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/low"
+            android:textSize="@dimen/weather_normal_text_size"
+            />
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

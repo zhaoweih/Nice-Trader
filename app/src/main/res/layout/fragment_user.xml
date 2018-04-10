@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/hotbgcolor"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <ImageView
+            android:id="@+id/iv_avatar"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_margin="30dp"
+            android:src="@drawable/avatar" />
+
+        <TextView
+            android:id="@+id/tv_signinstatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="30dp"
+            android:text="@string/you_are_not_signin"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/btn_signin_1"
+            android:layout_gravity="center"
+            android:layout_width="325dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/button_background"
+            android:text="@string/signin"/>
+        <Button
+            android:id="@+id/btn_signout"
+            android:layout_gravity="center"
+            android:layout_width="325dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_background"
+            android:textColor="@color/white"
+            android:layout_marginBottom="15dp"
+            android:text="@string/signout"/>
+
+        <Button
+            android:id="@+id/btn_my_order"
+            android:layout_gravity="center"
+            android:layout_width="325dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_background"
+            android:textColor="@color/white"
+            android:layout_marginBottom="15dp"
+            android:text="我的订单" />
+
+        <Button
+            android:id="@+id/btn_get_order"
+            android:layout_width="325dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_background"
+            android:textColor="@color/white"
+
+            android:text="收到订单" />
+
+</LinearLayout>
+
